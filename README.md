@@ -1,4 +1,4 @@
-# kanastra-challenge-boilerplate
+# kanastra-frontend
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]

@@ -17,3 +17,30 @@
     font-family: "Inter", sans-serif;
   }
 }
+
+
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input[type="file"] {
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #61dafb;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
+
+.message {
+  margin-top: 10px;
+  color: #ffdd57;
+}
